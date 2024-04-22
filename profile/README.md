@@ -1,5 +1,5 @@
 
-# Safe Sense Website
+# Safe Sense
 
 ## Making our roads safer using easy-to-install External Sensors and Machine Learning
 
